@@ -1,4 +1,4 @@
-## Hi, I'm Yeol Choi
+## Hi, I'm ten-choi
 
 Backend Engineer with 6+ years of experience across payment systems, medical platforms, gaming services, and RPA.
 Currently building internal platforms at **Cocone Corporation** in Japan using Kotlin and Spring Boot.
