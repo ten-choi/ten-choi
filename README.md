@@ -44,30 +44,13 @@ Currently building internal platforms at **Cocone Corporation** in Japan using K
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
----
+**Explored**
 
-### Career
-
-| Period | Company | Role | Key Work |
-|--------|---------|------|----------|
-| 2024.02 ~ Present | **Cocone Corp.** (Japan) | Backend Engineer | Hangame platform maintenance & modernization (Java 1.6 to Kotlin), mini-game backend in Go, internal app distribution platform (AppHub) with Kotlin/Spring Boot |
-| 2022.05 ~ 2023.10 | **Soldoc Inc.** | Backend Engineer | Telemedicine platform with DDD/Clean Architecture, Kakao Quick Delivery integration, payment/settlement system rebuild (1:N schema redesign) |
-| 2021.03 ~ 2022.05 | **Infofla Inc.** | Backend Engineer | RPA multi-PC scheduling server, taxi dispatch ERP, DB tuning & N+1 optimization (70% faster), DDD design |
-| 2020.05 ~ 2021.03 | **H4tech Inc.** | Full-Stack Engineer | KT FBG sensor CMS, ETRI tunnel safety & wearable health monitoring systems |
-
----
-
-### Highlights
-
-- Recovered a production payment-log DB deletion incident within 2 hours using AWS Aurora snapshots, with zero data loss
-- Redesigned a 1:1 payment schema to 1:N, reducing payment-related support tickets by ~30%
-- Automated monthly settlement processing with AWS Lambda, eliminating ~3 hours of manual work per cycle
-- Resolved N+1 query issues with GraphQL DataLoader, improving API response times by ~70%
-- Led migration of ~70 legacy projects from Java 1.6/SVN to Java 17+Kotlin/GitLab
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
 ### Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ten-choi)
 [![Dev.to](https://img.shields.io/badge/Blog-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/ten_choi)
