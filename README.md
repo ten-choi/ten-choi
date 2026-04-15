@@ -5,15 +5,6 @@ Currently building internal platforms at **Cocone Corporation** in Japan using K
 
 ---
 
-### About Me
-
-- Experienced in designing and operating systems end-to-end: from architecture to CI/CD to production incident response
-- Introduced DDD and Clean Architecture to improve legacy system structures
-- Comfortable with AWS infrastructure (EC2, RDS, Lambda, SQS, S3, CloudFront, VPC, etc.)
-- Hands-on with payment/settlement flows, authentication/security, and third-party integrations
-
----
-
 ### Tech Stack
 
 **Languages**
