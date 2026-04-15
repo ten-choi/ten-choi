@@ -1,7 +1,6 @@
 ## Hi, I'm Ten Choi
 
-Backend Engineer with 6+ years of experience across payment systems, medical platforms, gaming services, and RPA.
-Currently building internal platforms at **Cocone Corporation** in Japan using Kotlin and Spring Boot.
+Backend Engineer with roughly 6 years of experience spanning diverse domains — payment & settlement systems, medical platforms, gaming platforms, and RPA management tools — consistently involved from system design through operations and incident response. I have led system architecture improvements leveraging DDD and Clean Architecture, and I am well-versed in AWS infrastructure provisioning/operations and CI/CD pipeline design. Currently working as a Backend Engineer at **Cocone Engineering Corporation** in Japan.
 
 ---
 
